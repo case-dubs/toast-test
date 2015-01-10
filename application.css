@@ -1,0 +1,9 @@
+.grid--demo [class*="-of-2"], 
+.grid--demo [class*="-of-3"], 
+.grid--demo [class*="-of-4"],
+.grid--demo [class*="-of-5"] {
+  height: 1.4444rem;
+  margin-bottom: 1.4444rem;
+  background-clip: content-box;
+  background-color: rgba(123, 137, 148, 0.06);
+}
